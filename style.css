@@ -4,6 +4,7 @@ body {
 
 section {
     text-align: left;
+    justify-content: center;
 }
 
 .cell {
